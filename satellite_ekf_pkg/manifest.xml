@@ -1,0 +1,19 @@
+<package>
+  <description brief="satellite_ekf_pkg">
+
+     satellite_ekf_pkg
+
+  </description>
+  <author>Abb 120 </author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/satellite_ekf_pkg</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+
